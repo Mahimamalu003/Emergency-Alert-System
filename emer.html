@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Emergency Alert System</title>
+    <link rel="stylesheet" href="emer.css">
+</head>
+<body>
+    <header>
+        <h1>Emergency Alert System</h1>
+    </header>
+    
+    <nav>
+        <ul>
+            <li><a href="#register">Register</a></li>
+            <li><a href="#dashboard">Dashboard</a></li>
+            <li><a href="#admin">Admin Panel</a></li>
+            <li><a href="#map">Affected Areas</a></li>
+        </ul>
+    </nav>
+    
+    <section id="register">
+        <h2>Register for Alerts</h2>
+        <form>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" required>
+            
+            <label for="phone">Phone Number:</label>
+            <input type="tel" id="phone" required>
+            
+            <label for="email">Email:</label>
+            <input type="email" id="email" required>
+            
+            <label for="channel">Preferred Communication Channel:</label>
+            <select id="channel">
+                <option value="sms">SMS</option>
+                <option value="email">Email</option>
+                <option value="call">Voice Call</option>
+                <option value="app">Mobile App Notification</option>
+            </select>
+            
+            <button type="submit">Register</button>
+        </form>
+    </section>
+    
+    <section id="dashboard">
+        <h2>Active Alerts</h2>
+        <div id="alerts-container">
+            <p>No active alerts</p>
+        </div>
+    </section>
+    
+    <section id="admin">
+        <h2>Admin Panel</h2>
+        <button onclick="createAlert()">Create Alert</button>
+        <button onclick="editAlert()">Edit Alert</button>
+        <button onclick="manageUsers()">User Management</button>
+        <button onclick="manageGroups()">Group Management</button>
+        <button onclick="scheduleAlerts()">Scheduled Alerts</button>
+        <button onclick="priorityAlerts()">Priority Alerts</button>
+    </section>
+    
+    <section id="map">
+        <h2>Affected Areas</h2>
+        <div id="map-container">
+            <p>Map displaying emergency-affected areas</p>
+        </div>
+    </section>
+    
+    <section id="emergency-response">
+        <h2>Emergency Response System</h2>
+        <p>Automatic call system activated upon SMS alert.</p>
+        <p>GPS tracking enabled for location-based response.</p>
+        <p>Emergency responders dispatched in critical situations.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Emergency Alert System</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
