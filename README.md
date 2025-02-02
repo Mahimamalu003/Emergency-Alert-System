@@ -1,99 +1,47 @@
-# [Project Name] 🎯
+#   EMERGENCY ALERT SYSTEM 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: TECHY HACKERS
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- AMRITHA MS - UKF COLLEGE OF ENGINEERING
+- MAHIMA S S - UKF COLLEGE OF ENGINEERING
+- BHAGYALEKSHMI M S - UKF COLLEGE OF ENGINEERING
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+THE WEBSITE DEALS WITH PROVIDING ALERTS IN CASE OF EMERGENCIES
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+SLOW RESPONSE TO EMERGENCIES IS CAUSING MAY LOSS OF LIFE
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+THE SOLUTION WE CAME UP WITH IS A EMERGENCY ALERT SYSTEM THAT SENTS RAPID ALERTS INCASE OF ANY ACCIDENTS OR HARMS
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
+HTML,CSS,JS
 
 
-![Components](Add photo of your components here)
-*List out all components shown*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+# Screenshots 
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+![Screenshot (3)](https://github.com/user-attachments/assets/611ea783-596c-414d-94b3-702d107a344f)
+ diagram here)
+LANDING PAGE
 
-# Additional Demos
-[Add any extra demo materials/links]
+
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- MAHIMA SS : IDEA GENERATION
+- BHAGYALEKSHMI MS: VSCODE DEVELOPMENT
+- AMRITHA MS : IDEA GENERATION
 
 ---
 Made with ❤️ at TinkerHub
